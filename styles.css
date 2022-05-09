@@ -6,3 +6,30 @@
 a {
   font-family: proxima
 }
+
+.don {
+
+  margin-top: 100px;
+
+  font-family: proxima;
+
+}
+
+.don button {
+
+  background: #335AFF
+
+}
+
+.don button:active {
+
+ background: #2A303E;
+
+}
+
+.don button:focus {
+
+ background: #2A303E;
+
+}
+
