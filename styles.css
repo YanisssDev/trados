@@ -1,0 +1,8 @@
+@font-face {
+    font-family: Proxima;
+    src: url("./proxima.ttf") format("ttf"), url("./proxima.ttf")  format("truetype");
+}
+
+a {
+  font-family: proxima
+}
